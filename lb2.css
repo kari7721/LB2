@@ -1,0 +1,52 @@
+dt{
+	color:green;
+}
+.lesson{
+	font-weight:bold;
+}
+.Main{
+	color:red;
+}
+.Choise{
+	color:green;
+}
+#Firstbl{
+	font-size: 25px;	
+}
+#Secondbl{
+	background-color:yellow;
+}
+#cb{
+    position:absolute;
+	left:20px;
+    top:1090px;
+    }
+#Barca{
+	position:relative;
+	top:30px;
+	left:901px;
+ 
+}
+#Barca2{
+	float:left;
+	margin:10px 5px 10px 0;
+}
+#Infob{
+	transform:translatex(-500px);
+	transition:0.8s;
+	background-color:#992bd9;
+	height:110px;
+    width:520px;
+	outline-style:solid;
+	outline-color:Blue;
+	position:fixed;
+	top:520px;
+}
+#Infob:hover{
+	transform:translatex(-5px);
+	
+}
+#Barca3{
+	float:left;
+margin:10px 5px 7px 0;
+}
